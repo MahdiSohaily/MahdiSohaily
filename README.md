@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://mahdisohaily.github.io/Portfolio/" target="blank">
 Mahdi Rezaei</a></h1>
-<h3 align="center">A passionate Front-end developer from Kabul Afghanistan</h3>
+<h3 align="center">A passionate Front-end developer from Kabul, Afghanistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MahdiSohaily&label=Profile%20views&color=blueviolet&style=flat" alt="MahdiSohaily" /> </p>
 
@@ -45,6 +45,7 @@ Mahdi Rezaei</a></h1>
       </div>
 
 </p>
+<br>
 # 📊GitHub Stats :
 
 ![](https://github-readme-stats.vercel.app/api?username=MahdiSohaily&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
