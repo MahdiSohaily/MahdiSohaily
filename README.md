@@ -48,6 +48,6 @@ Mahdi Rezaei</a></h1>
 <br>
 # 📊GitHub Stats :
 
-![](https://github-readme-stats.vercel.app/api?username=MahdiSohaily&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MahdiSohaily&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiSohaily&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=MahdiSohaily&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MahdiSohaily&theme=tokyonight&hide_border=true&area=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiSohaily&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight)
