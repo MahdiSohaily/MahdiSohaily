@@ -43,11 +43,7 @@ Mahdi Rezaei</a></h1>
       </div>
 
 </p>
-<style>
-td, th {
-   border: none!important;
-}
-</style>
+
 <br>
 # 📊GitHub Stats :
 | Desktop version  | Mobile         |
