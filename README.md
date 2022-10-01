@@ -43,10 +43,9 @@ Mahdi Rezaei</a></h1>
       </div>
 
 </p>
-
 <br>
 # 📊GitHub Stats :
-| Desktop version  | Mobile         |
-| ---------------- | :------------------------------: |
-| ![](https://github-readme-stats.vercel.app/api?username=MahdiSohaily&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight)<br/> |![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiSohaily&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight) |
-|![](https://github-readme-streak-stats.herokuapp.com/?user=MahdiSohaily&theme=tokyonight&hide_border=true&area=true)<br/>|
+
+![](https://github-readme-stats.vercel.app/api?username=MahdiSohaily&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MahdiSohaily&theme=tokyonight&hide_border=true&area=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiSohaily&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight)
