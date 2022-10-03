@@ -10,15 +10,15 @@ Mahdi Rezaei</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 📝 I’m currently Studying at <a href="https://microverse.org/" target="blank">Microverse</a>
+- 📝 I’m currently studying at <a href="https://microverse.org/" target="blank">Microverse</a>
 
-- 🌱 I’m currently Working on Front-end development.
+- 🌱 I’m currently working on Front-end development.
 
 - 🤝 I’m available to contribute on front-end projects.
 
-- 🌱 I’m currently learning Javascript & React.
+- 🌱 I’m currently learning JavaScript & React.
 
-- 📝 I regularly write articles on my <a href="https://twitter.com/Mahdi_Rezaei_AF" target="blank">twitter</a>
+- 📝 I regularly write articles on my <a href="https://twitter.com/Mahdi_Rezaei_AF" target="blank">Twitter account</a>
 
 - 💬 Ask me about **JavaScript & Reactjs**
 
