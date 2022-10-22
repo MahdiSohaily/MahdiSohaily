@@ -48,4 +48,4 @@ Mahdi Rezaei</a></h1>
 
 ![](https://github-readme-stats.vercel.app/api?username=MahdiSohaily&show_icons=true&theme=gotham)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MahdiSohaily&&show_icons=true&theme=gotham)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiSohaily&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiSohaily&show_icons=true&theme=gotham)
