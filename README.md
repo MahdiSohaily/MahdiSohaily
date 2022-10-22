@@ -10,15 +10,15 @@ Mahdi Rezaei</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 </a>
 
-- 📝 I’m currently studying at <a href="https://microverse.org/" target="blank">Microverse.</a>
+- 📝 I’m currently Studying at <a href="https://microverse.org/" target="blank">Microverse</a>
 
-- 🌱 I’m currently working on Front-end development.
+- 🌱 I’m currently Working on Front-end development.
 
 - 🤝 I’m available to contribute on front-end projects.
 
-- 🌱 I’m currently learning JavaScript & React.
+- 🌱 I’m currently learning Javascript & React.
 
-- 📝 I regularly write articles on my <a href="https://twitter.com/Mahdi_Rezaei_AF" target="blank">Twitter account</a>
+- 📝 I regularly write articles on my <a href="https://twitter.com/Mahdi_Rezaei_AF" target="blank">twitter</a>
 
 - 💬 Ask me about **JavaScript & Reactjs**
 
@@ -29,17 +29,17 @@ Mahdi Rezaei</a></h1>
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/mahdi-rezaei-74705713b">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+   <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/MahdiSohaily">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/11258461/mahdi-rezaei?tab=profile">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/mahdisohaily">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/Mahdi_Rezaei_AF">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="#">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+  <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+  <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/11258461/mahdi-rezaei?tab=profile">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+    <a style="margin-left: 10px;" target="_blank" href="https://dev.to/mahdisohaily">
+     <img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
+  <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/Mahdi_Rezaei_AF">
+   <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+  <a style="margin-left: 5px;" target="_blank" href="#">
+     <img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
 
 </p>
@@ -47,5 +47,5 @@ Mahdi Rezaei</a></h1>
 # 📊GitHub Stats :
 
 ![](https://github-readme-stats.vercel.app/api?username=MahdiSohaily&show_icons=true&theme=gotham)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MahdiSohaily&theme=tokyonight&hide_border=true&area=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MahdiSohaily&&show_icons=true&theme=gotham)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiSohaily&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight)
