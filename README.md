@@ -7,7 +7,7 @@ Mahdi Rezaei</a></h1>
 <p align="left"> <a href="https://twitter.com/Mahdi_Rezaei_AF" target="blank"><img src="https://img.shields.io/twitter/follow/Mahdi_Rezaei_AF?logo=twitter&style=for-the-badge" alt="Mahdi_Rezaei_AF" /></a> </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://cdn.dribbble.com/users/1732368/screenshots/13868440/media/e5d35a4718deabcdc17dea202ed59373.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.tenor.com/VkRCJzYGdQMAAAAC/pc-man.gif">
 </a>
 
 - 📝 I’m currently Studying at <a href="https://microverse.org/" target="blank">Microverse</a>
