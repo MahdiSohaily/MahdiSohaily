@@ -6,24 +6,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MahdiSohaily&label=Profile%20views&color=blueviolet&style=flat" alt="MahdiSohaily" /> </p>
 
-
 <img align="right" height="350" width="375" alt="" src="https://64.media.tumblr.com/52d707ec600162594e1ea34ec1a8da70/tumblr_nkln8rQA7Q1shpedgo1_540.gif" />
 
-### Talking about Personal Stuff:
+### Talking about Personal Stuff
 
 - 🛠 &nbsp; I’m currently working with JS, TS, PHP & JAVA.
 - 🚀 &nbsp; I’m currently exploring REACT, NEXT, LARAVEL & SPRIG BOOT.
 - 💬 &nbsp; Ask me anything [here](https://github.com/MahdiSohaily/MahdiSohaily/issues/1)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
-- 📫 &nbsp; Reach me out: mahdi.sohaily4030@gmail.com.
+- 📫 &nbsp; Reach me out: <mahdi.sohaily4030@gmail.com>.
 
-### My Absolute Favorites:
+### My Absolute Favorites
 
 - 💻 &nbsp; I love exploring new technologies and building cool stuff.
 - 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
 - 🍕 &nbsp; Meetups & Tech Events & Hackathons.
 
-### Languages and Tools:
+### Languages and Tools
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
@@ -36,18 +35,17 @@
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
-### Projects and Dev Stuffs:
+### Projects and Dev Stuffs
 
-<details>
-  <summary><b>⚡ Github Stats</b></summary>
+<div>
+ <b>⚡ Github Stats</b>
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MahdiSohaily&show_icons=true&theme=onedark" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MahdiSohaily&&show_icons=true&theme=onedark"/>
-</details>
+</div>
 
-<details>
-  <summary><b>☄️ Github Streaks</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiSohaily&layout=compact&show_icons=true&theme=onedark" />
-</details>
+<div>
+ <b>☄️ Github Streaks</b>
+<br />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiSohaily&layout=compact&show_icons=true&theme=onedark" />
+</div>
