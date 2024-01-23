@@ -1,52 +1,50 @@
-<h1 align="center">Hi 👋, I'm <a href="https://mahdisohaily.github.io/Portfolio/" target="blank">
-Mahdi Rezaei</a></h1>
-<h3 align="center">A passionate Full Stack developer from Kabul, Afghanistan</h3>
+## Hey there 👋, I'm [Mahdi Rezaei!](https://github.com/MahdiSohaily)
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Mahdi_Rezaei_AF)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-rezaei-74705713b)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MahdiSohaily&label=Profile%20views&color=blueviolet&style=flat" alt="MahdiSohaily" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Mahdi_Rezaei_AF" target="blank"><img src="https://img.shields.io/twitter/follow/Mahdi_Rezaei_AF?logo=twitter&style=for-the-badge" alt="Mahdi_Rezaei_AF" /></a> </p>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/night%20code.gif">
-</a>
+<img align="right" height="350" width="375" alt="" src="https://64.media.tumblr.com/52d707ec600162594e1ea34ec1a8da70/tumblr_nkln8rQA7Q1shpedgo1_540.gif" />
 
-- 📝 I’m currently Studying at <a href="https://microverse.org/" target="blank">Microverse</a>
+### Talking about Personal Stuff:
 
-- 🌱 I’m currently Working on Front-end development.
+- 🛠 &nbsp; I’m currently working with JS, TS, PHP & JAVA.
+- 🚀 &nbsp; I’m currently exploring REACT, NEXT, LARAVEL & SPRIG BOOT.
+- 💬 &nbsp; Ask me anything [here](https://github.com/MahdiSohaily/MahdiSohaily/issues/1)! I am happy to help.
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
+- 📫 &nbsp; Reach me out: mahdi.sohaily4030@gmail.com.
 
-- 🤝 I’m available to contribute on front-end projects.
+### My Absolute Favorites:
 
-- 🌱 I’m currently learning Javascript & React.
+- 💻 &nbsp; I love exploring new technologies and building cool stuff.
+- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
+- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
 
-- 📝 I regularly write articles on my <a href="https://twitter.com/Mahdi_Rezaei_AF" target="blank">twitter</a>
+### Languages and Tools:
 
-- 💬 Ask me about **JavaScript & Reactjs**
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
-<br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;" alt="contact with me">Connect with me 🤝 </h3>
+### Projects and Dev Stuffs:
 
-<p align="center">
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MahdiSohaily&show_icons=true&theme=onedark" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MahdiSohaily&&show_icons=true&theme=onedark"/>
+</details>
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/mahdi-rezaei-74705713b">
-   <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/MahdiSohaily">
-  <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-  <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/11258461/mahdi-rezaei?tab=profile">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://dev.to/mahdisohaily">
-     <img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-  <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/Mahdi_Rezaei_AF">
-   <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-  <a style="margin-left: 5px;" target="_blank" href="#">
-     <img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
-      </div>
+<details>
+  <summary><b>☄️ Github Streaks</b></summary>
 
-</p>
-<br>
-# 📊GitHub Stats :
-
-![](https://github-readme-stats.vercel.app/api?username=MahdiSohaily&show_icons=true&theme=onedark)
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MahdiSohaily&&show_icons=true&theme=onedark)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiSohaily&layout=compact&show_icons=true&theme=onedark)
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiSohaily&layout=compact&show_icons=true&theme=onedark" />
+</details>
