@@ -13,7 +13,7 @@
 - 🛠 &nbsp; I’m currently working with JS, TS, PHP & JAVA.
 - 🚀 &nbsp; I’m currently exploring REACT, NEXT, LARAVEL & SPRIG BOOT.
 - 💬 &nbsp; Ask me anything [here](https://github.com/MahdiSohaily/MahdiSohaily/issues/1)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
+- 👾 &nbsp; Fun fact: NaN ** 0 is 1 in JS.
 - 📫 &nbsp; Reach me out: <mahdi.sohaily4030@gmail.com>.
 
 ### My Absolute Favorites
