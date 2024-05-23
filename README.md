@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MahdiSohaily&label=Profile%20views&color=blueviolet&style=flat" alt="MahdiSohaily" /> </p>
 
-<img align="right" height="350" width="375" alt="" src="[https://64.media.tumblr.com/52d707ec600162594e1ea34ec1a8da70/tumblr_nkln8rQA7Q1shpedgo1_540.gif](https://cdn.dribbble.com/users/461802/screenshots/4753031/media/4711ad8d0ba0dcd367061aa7841f8107.gif)" />
+<img align="right" height="350" width="375" alt="" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/media/4711ad8d0ba0dcd367061aa7841f8107.gif" />
 
 ### Talking about Personal Stuff
 
