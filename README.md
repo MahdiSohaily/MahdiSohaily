@@ -49,4 +49,3 @@
 <br />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiSohaily&layout=compact&show_icons=true&theme=onedark" />
 </div>
-[![committers.top badge](https://user-badge.committers.top/afghanistan/MahdiSohaily.svg)](https://user-badge.committers.top/afghanistan/MahdiSohaily)
